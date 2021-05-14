@@ -1736,9 +1736,9 @@ h2.heading-h2 {
     .ncdmb-dev-portal-navbar .ncdmb-dev-portal-navbar-wrapper div.nav-routes a {
       /* padding-top: 36px; */
       /* padding-bottom: 36px; */
-      padding: 5px 15px;
-      font-size: 14px;
-      font-weight: 500;
+      padding: 5px 10px;
+      font-size: 12px;
+      font-weight: 600;
     }
   
     .ncdmb-dev-portal-navbar .ncdmb-dev-portal-navbar-wrapper div.ncdmb-connect {
